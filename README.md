@@ -21,5 +21,6 @@ Click the button and watch the background change into random colors (or gradient
 
 ---
 📸 Preview
+![Recording 2025-09-17 123704](https://github.com/user-attachments/assets/59f045a6-f7d0-4834-8195-921e67a87075)
 
 
