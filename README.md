@@ -20,5 +20,6 @@ Click the button and watch the background change into random colors (or gradient
 - [JavaScript (ES6+)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
 ---
+📸 Preview
 
 
